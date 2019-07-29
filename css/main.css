@@ -394,6 +394,7 @@ transform: scale(1.2);
 
 .footer-logo {
 	padding: 108px 0;
+	transition: all 1s ease;
 }
 
 .section-title__heading_review {
