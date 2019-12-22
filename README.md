@@ -2,6 +2,6 @@
 
 **Training Project:** Graviti
 
-**Description:** HTML5 / CSS3 / JS / jQuery / Bootstrap / Carousel / Responsive Web Design
+**Technology stack:** HTML5 / CSS3 / JavaScript / jQuery / Bootstrap / Carousel / Responsive Web Design
 
 **GitHub Pages:** [Graviti](https://erikkopcha.github.io/Graviti/)
